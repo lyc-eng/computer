@@ -9,7 +9,7 @@ public class test {
 
         HardDisk hd = new HardDisk();
 
-        cpu.setName("i7");
+        cpu.setName("AMD");
 
         cpu.setSpeed(2200);
 
